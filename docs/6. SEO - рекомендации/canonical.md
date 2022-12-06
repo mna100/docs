@@ -7,4 +7,6 @@ sidebar_position: 2
 
 В частных случаях рекомендовано обратиться к SEO - специалисту.
 
+:::info
 Подробнее: Статья - **[(rel=canonical)](https://siteclinic.ru/blog/technical-aspects/rel-canonical/)**
+:::

@@ -6,8 +6,14 @@ sidebar_position: 2
 ## Инициализация npm и запуск webpack
 
 Скачайте зависимости (проверьте наличие package-lock.json)  <br/>
-**npm install**
 
-Запустите webpack: <br/>
-**npm run watch   //режим разработки** <br/>
-**npm run prod   //режим продакшена**
+```bash
+npm install
+```
+
+Запустите webpack: 
+```bash
+npm run watch   //режим разработки
+npm run prod   //режим продакшена
+```
+

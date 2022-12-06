@@ -5,4 +5,8 @@ sidebar_position: 3
 
 ### Запрещено на рабочей версии сайта оставлять в коде ```console.log()```
 
+:::tip
+
 Для отладки так же используйте: ```console.debug()```, ```console.error()```, ```console.info()```, ```console.time()```
+
+:::
