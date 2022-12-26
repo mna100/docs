@@ -42,7 +42,7 @@ if (document.querySelector("#map_contacts")) {
             });
   });
 
-            // инициализация карты
+  // инициализация карты
   ymaps
     .load(
       "https://api-maps.yandex.ru/2.1/?lang=ru_RU&amp;apikey=YOU_API_KEY"
